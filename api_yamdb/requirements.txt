@@ -14,7 +14,7 @@ iniconfig==2.0.0
 packaging==23.0
 pluggy==0.13.1
 py==1.11.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytest==6.2.4
 pytest-django==4.4.0
 pytest-pythonpath==0.7.3
